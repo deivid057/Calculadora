@@ -1,4 +1,4 @@
-from init import *
+from functions import *
 
 while True:
 
